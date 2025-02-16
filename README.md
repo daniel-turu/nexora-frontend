@@ -9,3 +9,13 @@ Currently, two official plugins are available:
 
 
 
+# Install packages using Yarn
+```bash
+    yarn install
+```
+
+
+# Run Project
+```bash
+    yarn run dev
+```
